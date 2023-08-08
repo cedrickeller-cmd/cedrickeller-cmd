@@ -26,12 +26,12 @@
   
   Not the biggest Github contributor but I'm here from time to time. Yay!
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedrickeller-cmd\&hide_progress=true&theme=dark)
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedrickeller-cmd&hide_progress=true&theme=dark" alt="top langs"/></p>
   
   ⌨ Working mostly with `SQL` and `Python`/`Jupyter` off Github
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cedrickeller-cmd&theme=dark)](https://git.io/streak-stats)
+  <p><img src="http://github-readme-streak-stats.herokuapp.com?user=cedrickeller-cmd&theme=dark" alt="GitHub Streak"/></p>
   
-  ![Cédric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedrickeller-cmd&&rank_icon=github&theme=dark) 
+  <p><img src="https://github-readme-stats.vercel.app/api?username=cedrickeller-cmd&&rank_icon=github&theme=dark" alt="GitHub Stats"/></p>
 
 </div>
