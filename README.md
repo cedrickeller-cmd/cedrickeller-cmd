@@ -11,9 +11,9 @@
   
   <h3>Connect <img src="https://media.giphy.com/media/DfmvfaJeDXlEbRuB2N/giphy.gif" width="30"></h3>
   
-  <p>Find me on <a href="https://www.linkedin.com/in/cedrickeller/">LinkedIn</a> or visit my <a href="https://cedrickeller.ch">website</a>.</p>
+  <p>Find me on <a href="https://www.linkedin.com/in/cedrickeller/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or visit my <a href="https://cedrickeller.ch" target="_blank" rel="noopener noreferrer">website</a>.</p>
   
-  <p>⚞ If you feel adventurous, go to this <a href="https://terminal.cedrickeller.ch">terminal</a> (<a href="https://github.com/Cveinnt/LiveTerm">build your own</a>)! ⚟</p>
+  <p>⚞ If you feel adventurous, go to this <a href="https://terminal.cedrickeller.ch" target="_blank" rel="noopener noreferrer">terminal</a> (<a href="https://github.com/Cveinnt/LiveTerm" target="_blank" rel="noopener noreferrer">build your own</a>)! ⚟</p>
   
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="150"/>
   
