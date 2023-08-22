@@ -13,10 +13,6 @@
   
   <p>Find me on <a href="https://www.linkedin.com/in/cedrickeller/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or visit my <a href="https://cedrickeller.ch" target="_blank" rel="noopener noreferrer">website</a>.</p>
   
-  <p>⚞ If you feel adventurous, go to this <a href="https://terminal.cedrickeller.ch" target="_blank" rel="noopener noreferrer">terminal</a> (<a href="https://github.com/Cveinnt/LiveTerm" target="_blank" rel="noopener noreferrer">build your own</a>)! ⚟</p>
-  
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="150"/>
-  
   <hr>
   
 </div>
@@ -27,12 +23,12 @@
   
   <p>Not the biggest Github contributor but I'm here from time to time. Yay!</p>
   
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedrickeller-cmd&hide_progress=true&theme=dark" alt="top langs"/></p>
+  <p><img src="https://github-readme-stats-cedrickeller-cmd.vercel.app/api/top-langs/?username=cedrickeller-cmd&layout=compact&hide_progress=true&theme=dark&langs_count=5" alt="top langs"/></p>
   
   <p>⌨ Working mostly with <code>SQL</code> and <code>Python</code>/<code>Jupyter</code> off Github</p>
   
   <p><img src="http://github-readme-streak-stats.herokuapp.com?user=cedrickeller-cmd&theme=dark" alt="GitHub Streak"/></p>
   
-  <p><img src="https://github-readme-stats.vercel.app/api?username=cedrickeller-cmd&&rank_icon=github&theme=dark" alt="GitHub Stats"/></p>
+  <p><img src="https://github-readme-stats-cedrickeller-cmd.vercel.app/api?username=cedrickeller-cmd&&rank_icon=github&theme=dark" alt="GitHub Stats"/></p>
 
 </div>
