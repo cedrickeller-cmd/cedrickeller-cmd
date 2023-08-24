@@ -23,12 +23,12 @@
   
   <p>Not the biggest Github contributor but I'm here from time to time. Yay!</p>
   
-  <p><img src="https://github-readme-stats-cedrickeller-cmd.vercel.app/api/top-langs/?username=cedrickeller-cmd&layout=compact&hide_progress=true&theme=dark&langs_count=5" alt="top langs"/></p>
+  <p><img src="https://github-readme-stats-cedrickeller-cmd.vercel.app/api/top-langs/?username=cedrickeller-cmd&layout=compact&hide_progress=true&theme=dark&count-private=true&langs_count=10&hide=None" alt="Top Languages"/></p>
   
   <p>⌨ Working mostly with <code>SQL</code> and <code>Python</code>/<code>Jupyter</code> off Github</p>
   
   <p><img src="http://github-readme-streak-stats.herokuapp.com?user=cedrickeller-cmd&theme=dark" alt="GitHub Streak"/></p>
   
-  <p><img src="https://github-readme-stats-cedrickeller-cmd.vercel.app/api?username=cedrickeller-cmd&&rank_icon=github&theme=dark" alt="GitHub Stats"/></p>
+  <p><img src="https://github-readme-stats-cedrickeller-cmd.vercel.app/api?username=cedrickeller-cmd&&rank_icon=github&theme=dark&count-private=true" alt="GitHub Stats"/></p>
 
 </div>
