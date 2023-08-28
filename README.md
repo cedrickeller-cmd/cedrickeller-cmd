@@ -13,6 +13,10 @@
   
   <p>Find me on <a href="https://www.linkedin.com/in/cedrickeller/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or visit my <a href="https://cedrickeller.ch" target="_blank" rel="noopener noreferrer">website</a>.</p>
   
+  <a href="https://cedrickeller.ch/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/cedrickeller/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.codecademy.com/profiles/43c3a964726963"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"></a>
+  
   <hr>
   
 </div>
