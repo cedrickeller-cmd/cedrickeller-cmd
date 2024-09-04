@@ -3,9 +3,9 @@
   
   <h3>Hello, World! This is Cédric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
   
-  <p>I am a Michigan Tech graduate in MIS and future Data Science student who explores opportunities involving tech and data.</p>
+  <p>I am a Michigan Tech graduate in Management Information Systems and <br>Data Science graduate student who explores opportunities involving tech and data.</p>
   
-  <p>I also love (doing and watching) sports!</p>
+  <p>I also love (doing, coaching, and watching) sports!</p>
   
   <hr>
   
